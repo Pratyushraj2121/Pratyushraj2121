@@ -1,11 +1,7 @@
 <h1 align="center">Hey 👋, I'm Pratyush</h1>
 <h3 align="center">A passionate Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushraj2121&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushraj2121" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratyushraj2121" alt="pratyushraj2121" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@iampratyush21" target="blank"><img src="https://img.shields.io/twitter/follow/@iampratyush21?logo=twitter&style=for-the-badge" alt="@iampratyush21" /></a> </p>
 
 - 🔭 I’m currently working on **Forest Fire Analysis and Text Automation using NLP**
 
