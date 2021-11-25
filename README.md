@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Pratyush</h1>
 <h3 align="center">A passionate Developer</h3>
-You can visit me at <a href="https://pratyushrajmishra.netlify.app/">
+<h3 align="center">A passionate DeveloperYou can visit me at <a href="https://pratyushrajmishra.netlify.app/"> </a></h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratyushraj2121" alt="pratyushraj2121" /></a> </p>
 
 - 🔭 I’m currently working on **Forest Fire Analysis and Text Automation using NLP**
