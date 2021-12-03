@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Natural Language Processing, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [](https://pratyushraj2121.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://pratyushrajmishra.netlify.app/](https://pratyushrajmishra.netlify.app/)
 
 - 📫 How to reach me **pratyushraj2121@gmail.com**
 
